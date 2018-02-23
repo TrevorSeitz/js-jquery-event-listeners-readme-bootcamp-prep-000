@@ -47,7 +47,7 @@ function submitIt() {
 }
 
 $(document).ready(function(){
-  getIt();
+  this.getIt();
   frameIt();
   pressIt();
   submitIt();
