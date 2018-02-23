@@ -4,7 +4,7 @@
 // When the paragraph is clicked, the function should alert "Hey!".
 function getIt() {
   $('p').on('click', function() {
-  alert 'Hey!';
+  alert() 'Hey!';
   });
 }
 
