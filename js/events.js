@@ -42,7 +42,7 @@ var pressIt = function(){
 // "Your form is going to be submitted now.".
 function submitIt() {
   $('form').on('submit', function() {
-  window.alert 'Your form is going to be submitted now';
+  window.alert('Your form is going to be submitted now');
   });
 }
 
